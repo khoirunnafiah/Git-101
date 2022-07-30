@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Catatan Git Flow 2022-07-32
+=======
+Ini file note di featureA
+>>>>>>> featureA
